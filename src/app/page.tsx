@@ -142,7 +142,7 @@ Use ${formData.colorScheme} colors and a ${formData.designStyle} design style.`;
                     value={formData.role}
                     onChange={(e) => handleInputChange('role', e.target.value)}
                     className="w-full px-4 py-3 bg-white/50 border border-gray-200 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200 placeholder-gray-400"
-                    placeholder="e.g., Full Stack Developer"
+                    placeholder="e.g., Founder & CEO"
                     required
                   />
                 </div>
@@ -171,7 +171,7 @@ Use ${formData.colorScheme} colors and a ${formData.designStyle} design style.`;
                   onChange={(e) => handleInputChange('skills', e.target.value)}
                   className="w-full px-4 py-3 bg-white/50 border border-gray-200 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200 resize-none placeholder-gray-400"
                   rows={2}
-                  placeholder="e.g., React, Node.js, Python, AWS, Docker..."
+                  placeholder="e.g., Business Development, Sales, Marketing, etc..."
                   required
                 />
               </div>
