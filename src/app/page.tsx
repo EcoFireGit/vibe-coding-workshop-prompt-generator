@@ -109,7 +109,7 @@ Use ${formData.colorScheme} colors and a ${formData.designStyle} design style.`;
               Portfolio Prompt Generator
             </h1>
             <p className="text-lg text-gray-600 max-w-lg mx-auto leading-relaxed">
-              Generate personalized portfolio website prompts for Lovable. Created for the MIT Women's Summit 2025.
+              Generate personalized portfolio website prompts for Lovable.
             </p>
           </div>
 
